@@ -6,16 +6,14 @@
 
 ### AI Mavericks
 Meet my AI creations:
-- **Python Chatbot**: A conversational chatbot ready to chat you up.
-- **Image Recognition System**: Built with TensorFlow and Keras, it performs cool object detection that'll blow your mind.
+- **WMS**: StaGreen's AI solution for Urban Planning & Waste Management.
+- **Image Recognition and Classification System**: Built with Custom Vision, it performs cool object detection that'll blow your mind.
 
 ### Web 3 Warriors
 Witness my foray into the decentralized world:
-- **DApp**: Built using Ethereum and Solidity.
+- **DApp**: Building using Ethereum and Solidity.
 - **Blockchain-based Voting System**: A secure system that'll make democracy a breeze (well, almost!). 
 
-### Live Experimentation
-Wanna see my code in action? Check out the real-time build status displayed proudly with a shields.io badge! ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
 
 ## Hungry for More Knowledge?
 
