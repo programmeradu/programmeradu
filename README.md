@@ -1,5 +1,3 @@
-[![Edit README intro.gif (forked)](https://codesandbox.io/s/readme-intro-gif-forked-cg5pgs?fontsize=14&hidenavigation=1&theme=dark)]
-
 
 
 
@@ -41,8 +39,6 @@ This playground is constantly under construction, with new projects and updates 
 
 Feedback and contributions are always welcome! Open an issue or pull request and let's build something awesome together.
 ---
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmeradu)](https://github.com/anuraghazra/github-readme-stats)
 
