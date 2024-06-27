@@ -37,6 +37,6 @@ This playground is constantly under construction, with new projects and updates 
 ## Wanna Play Along?
 
 Feedback and contributions are always welcome! Open an issue or pull request and let's build something awesome together.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmeradu)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ⭐️ From [Samuel Adu-Berekorang](https://github.com/SamuelAduBerekorang)
