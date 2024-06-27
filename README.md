@@ -1,3 +1,9 @@
+https://codesandbox.io/embed/readme-intro-gif-forked-cg5pgs?fontsize=14&hidenavigation=1&theme=dark
+
+
+
+
+
 # Samuel Adu-Berekorang's Code Playground: Where AI Meets Ambition
 
 👋 Yo! I'm Samuel, a self-taught developer with a relentless drive to push the boundaries of AI and Web 3. This playground is my digital laboratory, where I tinker with code, build mind-blowing projects, and (hopefully) impress you with my problem-solving skills.
