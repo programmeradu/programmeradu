@@ -1,4 +1,4 @@
-[![Edit README intro.gif (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-intro-gif-forked-cg5pgs?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit README intro.gif (forked)](https://codesandbox.io/s/readme-intro-gif-forked-cg5pgs?fontsize=14&hidenavigation=1&theme=dark)]
 
 
 
