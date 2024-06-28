@@ -22,6 +22,8 @@ My relentless pursuit of learning doesn't stop at code. Check out my certificati
 - Data Science Foundations (Level 1) (IBM, June 2023)
 - Advanced Google Analytics (Google, June 2023)
 - Foundations of Project Management (Google, July 2023)
+- EITCA Certified
+- MTN App Challenge v5.0 Winner
 
 ## Let's Collab!
 I'm not a lone coder on a deserted island (although that does sound kinda cool...). Find me on LinkedIn and let's chat about AI, Web 3, or the best places to find pizza in Accra! 🍕
