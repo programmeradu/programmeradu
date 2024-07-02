@@ -13,7 +13,15 @@ Meet my AI creations:
 Witness my foray into the decentralized world:
 
 - DApp: Building using Ethereum and Solidity.
-- Blockchain-based Voting System: A secure system that'll make democracy a breeze (well, almost!).
+- Blockchain-based Voting System: A secure system that'll make democracy a breeze (well, almost)
+
+### Other Projects (Major)
+Personal | Client
+
+- DigiLib: Containerized Digital Library System
+- FashionBot: Makes sketches, visualizes sketches, dress making thorough guidance, voice and text to image, trend analysis
+- Digital Community Combo: Accommodation Management, ERP, MiniMart managemtn & PoS, BookShop
+- Sta SMS: Complete Student & School Management System
   
 ## Hungry for More Knowledge?
 My relentless pursuit of learning doesn't stop at code. Check out my certifications that prove I'm always one step ahead:
@@ -24,6 +32,9 @@ My relentless pursuit of learning doesn't stop at code. Check out my certificati
 - Foundations of Project Management (Google, July 2023)
 - EITCA Certified
 - MTN App Challenge v5.0 Winner
+- Microsoft Imagine Cup participant
+- Microsoft Startup Founder
+- ISC squared Candidate
 
 ## Let's Collab!
 I'm not a lone coder on a deserted island (although that does sound kinda cool...). Find me on LinkedIn and let's chat about AI, Web 3, or the best places to find pizza in Accra! 🍕
