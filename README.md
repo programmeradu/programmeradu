@@ -6,19 +6,23 @@
 ### AI Mavericks
 Meet my AI creations:
 
-- WMS: StaGreen's AI solution for Urban Planning & Waste Management.
+- **[StaGreen](https://github.com/programmeradu/StaGreen)** ⭐ 2 - Cutting-edge platform revolutionizing urban waste management and city planning through AI, Web3, and gamification. Provides actionable insights for municipalities and urban planners. [Live Demo](https://new-wms.vercel.app)
 - Image Recognition and Classification System: Built with Custom Vision, it performs cool object detection that'll blow your mind.
   
 ### Web 3 Warriors
 Witness my foray into the decentralized world:
 
-- DApp: Building using Ethereum and Solidity.
-- Blockchain-based Voting System: A secure system that'll make democracy a breeze (well, almost)
+- **[KeyStone Treasury OS](https://github.com/programmeradu/keystone-treasury-os)** ⭐ 1 - AI-powered command layer for the on-chain economy. Eliminating complex dashboards with simple, secure, natural language prompts for Web3 treasury operations. [Live Demo](https://keystone.stauniverse.tech)
+- **[Cool Domains](https://github.com/programmeradu/cool-domains)** ⭐ 1 - Blockchain domain name service implementation
+- **[QuickVote](https://github.com/programmeradu/quickvote)** ⭐ 1 - Android-based automated voting system for secure, decentralized elections
 
 ### Other Projects (Major)
 Personal | Client
 
-- DigiLib: Containerized Digital Library System
+- **[DigiLib](https://github.com/programmeradu/digilib)** ⭐ 1 - Containerized Digital Library System with Python backend [Live Demo](https://react-invenio-app-ils.vercel.app)
+- **[Newhotelcommerce](https://github.com/programmeradu/Newhotelcommerce)** ⭐ 1 - Complete hotel commerce and booking management platform
+- **[NewUberClone](https://github.com/programmeradu/NewUberClone)** ⭐ 1 - Ride-sharing application built with Java for Android
+- **[Ashion Master](https://github.com/programmeradu/ashion-master)** ⭐ 1 - Fashion e-commerce platform frontend
 - FashionBot: Makes sketches, visualizes sketches, dress making thorough guidance, voice and text to image, trend analysis
 - Digital Community Combo: Accommodation Management, ERP, MiniMart managemtn & PoS, BookShop
 - Sta SMS: Complete Student & School Management System
