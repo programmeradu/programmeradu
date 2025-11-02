@@ -6,23 +6,23 @@
 ### AI Mavericks
 Meet my AI creations:
 
-- **[StaGreen](https://github.com/programmeradu/StaGreen)** - Cutting-edge platform designed to revolutionize urban waste management and city planning through AI, Web3, and gamification. Provides actionable insights for municipalities, waste management companies, and urban planners to create smarter, greener cities. Built with JavaScript, AI, and decentralized applications on Microsoft Azure. [Live Demo](https://new-wms.vercel.app)
+- **[StaGreen](https://github.com/programmeradu/StaGreen)** - Cutting-edge platform designed to revolutionize urban waste management and city planning through AI, Web3, and gamification. Provides actionable insights for municipalities, waste management companies, and urban planners to create smarter, greener cities. [Live Demo](https://new-wms.vercel.app)
 - Image Recognition and Classification System: Built with Custom Vision, it performs cool object detection that'll blow your mind.
   
 ### Web 3 Warriors
 Witness my foray into the decentralized world:
 
-- **[KeyStone](https://github.com/programmeradu/keystone-treasury-os)** - AI-powered command layer for the on-chain economy. Eliminating complex dashboards and replacing them with simple, secure, natural language prompts to orchestrate Web3 treasury operations. Built with TypeScript. [Live Demo](https://keystone.stauniverse.tech)
-- **[Cool Domains](https://github.com/programmeradu/cool-domains)** - Blockchain domain name service built with JavaScript and Solidity
-- **[QuickVote](https://github.com/programmeradu/quickvote)** - Android Automated Voting System for secure, decentralized elections
+- **[KeyStone](https://github.com/programmeradu/keystone-treasury-os)** - AI-powered command layer for the on-chain economy. Eliminating complex dashboards and replacing them with simple, secure, natural language prompts to orchestrate Web3 treasury operations. [Live Demo](https://keystone.stauniverse.tech)
+- **[Cool Domains](https://github.com/programmeradu/cool-domains)** - Blockchain domain name service for creating and managing decentralized web domains
+- **[QuickVote](https://github.com/programmeradu/quickvote)** - Automated voting system enabling secure, transparent, and decentralized elections
 
 ### Other Projects (Major)
 Personal | Client
 
-- **[DigiLib](https://github.com/programmeradu/digilib)** - Containerized Digital Library System built with Python and React [Live Demo](https://react-invenio-app-ils.vercel.app)
-- **[Hotel Commerce Platform](https://github.com/programmeradu/Newhotelcommerce)** - Complete hotel commerce and booking management system built with PHP
-- **[Ride-Sharing App](https://github.com/programmeradu/NewUberClone)** - Mobile ride-sharing application built with Java for Android
-- **[Fashion E-Commerce](https://github.com/programmeradu/ashion-master)** - Fashion e-commerce platform frontend built with HTML/CSS
+- **[DigiLib](https://github.com/programmeradu/digilib)** - Containerized digital library management system for cataloging, searching, and managing digital book collections [Live Demo](https://react-invenio-app-ils.vercel.app)
+- **[Hotel Commerce Platform](https://github.com/programmeradu/Newhotelcommerce)** - Complete hotel commerce and booking management system for handling reservations, inventory, and guest services
+- **[Ride-Sharing App](https://github.com/programmeradu/NewUberClone)** - Mobile ride-sharing application connecting drivers and passengers with real-time GPS tracking and payment processing
+- **[Fashion E-Commerce](https://github.com/programmeradu/ashion-master)** - Fashion e-commerce platform for browsing and purchasing fashion items online
 - FashionBot: Makes sketches, visualizes sketches, dress making thorough guidance, voice and text to image, trend analysis
 - Digital Community Combo: Accommodation Management, ERP, MiniMart managemtn & PoS, BookShop
 - Sta SMS: Complete Student & School Management System
